@@ -88,7 +88,7 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 If you have any questions, feel free to reach out:
 
 - **Email**: jain.aditya1510@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/adittyajain)
-- **GitHub**: [Your GitHub Profile](https://github.com/adittya-jain)
+- **LinkedIn**: [Aditya Jain](https://www.linkedin.com/in/adittyajain)
+- **GitHub**: [adittya-jain](https://github.com/adittya-jain)
 
 Thank you for visiting my portfolio website!
